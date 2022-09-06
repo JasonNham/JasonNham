@@ -1,7 +1,7 @@
 # Hello, Welcome to my Repo!
 
 ``` js
-struct Developer {
+const Developer {
   let name = "Jason Nham"
   let pronouns = "he/him/his"
   let age = 23
