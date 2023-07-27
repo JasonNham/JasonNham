@@ -5,10 +5,10 @@ const Developer {
   let name = "Jason Nham"
   let pronouns = "he/him/his"
   let age = 23
-  let role = "Web Developer"
+  let role = "Application Analyst and Developer"
   let location = "Cincinnati, Oh"
-  let frontend = ["HTML", "CSS", "JavaScript", "React"]
-  let backend = ["Javascript" "Typescript", "MongoDB", "AWS", "Firebase"]
+  let frontend = ["HTML", "CSS", "JavaScript", "Angular", "React"]
+  let backend = ["Java", "Javascript" "Typescript", "SQL", "AWS", "Firebase"]
   
   func sayHi() {
     print("Thanks for stopping by to check out my work!")
