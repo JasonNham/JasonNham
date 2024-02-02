@@ -10,7 +10,7 @@ const Developer {
   let frontend = ["HTML", "CSS", "JavaScript", "Angular", "React"]
   let backend = ["Java", "Javascript" "Typescript", "SQL", "AWS", "Firebase"]
   
-  func sayHi() {
+  function sayHi() {
     print("Thanks for stopping by to check out my work!")
   }
 }
