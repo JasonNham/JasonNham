@@ -3,10 +3,9 @@
 ``` js
 const Developer {
   let name = "Jason Nham"
-  let pronouns = "he/him/his"
-  let age = 23
+  let age = 26
   let role = "Application Analyst and Developer"
-  let location = "Cincinnati, Oh"
+  let location = "Kansas City, MO"
   let frontend = ["HTML", "CSS", "JavaScript", "Angular", "React"]
   let backend = ["Java", "Javascript" "Typescript", "SQL", "AWS", "Firebase"]
   
@@ -20,10 +19,7 @@ me.sayHi()
 ```
 
 ## Recent Projects
-- [Footura Club](http://www.footuraclub.com/) | [Repo](https://github.com/JasonNham/footuraclub) - Recent contract job to develop the code for the React Website.
 - [Personal Website](https://www.jasonnham.com/) | [Repo](https://github.com/JasonNham/personal_website) - Personal Portfolio Website
-- PrepPal | [Repo](https://github.com/JasonNham/PrepPal) - 
-- Shuffle Sound Mobile App | [Repo](https://github.com/JasonNham/ShuffleSound) - Senior Capstone Project
 
 ## Links
 - [Personal Website](https://www.jasonnham.com/)
